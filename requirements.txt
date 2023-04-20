@@ -1,4 +1,4 @@
-itreamlit
+streamlit
 plotly
 numpy
 gunicorn
